@@ -4,6 +4,7 @@
     <mapping directory="" vcs="Git" />
     <mapping directory="$USER_HOME$/AppData" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/myswipeabletabs" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/netconnectivity/src/main/java/com/example/netconnectivity" vcs="Git" />
   </component>
 </project>
